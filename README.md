@@ -1,8 +1,12 @@
-# Hi there, I'm Fazril! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=051926&height=200&section=header&text=Hi%20there,%20I'm%20Fazril!%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=65&descAlign=62" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&height=50&lines=Frontend+Developer;React+%26+Framer+Motion+Specialist;Building+Premium+UI%2FUX" alt="Typing SVG" />
+</div>
+
+<br/>
 
 🌍 **Based in Indonesia** | 💡 **Passionate about building innovative UI/UX solutions**
-
-*Frontend Developer | React Specialist | Framer Motion Enthusiast | Web Developer*
 
 Welcome to my GitHub profile! I'm a passionate software developer with a love for creating seamless, user-friendly, and premium web applications. I enjoy working on frontend technologies, crafting immersive UI/UX experiences, and I'm always eager to learn and explore new tools and frameworks.
 
@@ -47,3 +51,7 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=051926&height=100&section=footer" />
+</div>
