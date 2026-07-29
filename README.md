@@ -12,6 +12,15 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ---
 
+### 📊 GitHub Activity Dashboard
+
+<div align="center">
+  <!-- Ini adalah metrik dari lowlighter/metrics yang Anda minta -->
+  <img src="https://metrics.lecoq.io/fazril299?template=classic&base=header,activity,community,repositories,metadata&isocalendar=yes&isocalendar_duration=half-year&languages=yes&languages_colors=github&languages_threshold=0%25&habits=yes&habits_charts=yes&habits_days=14&habits_facts=yes&config_timezone=Asia%2FJakarta" alt="Fazril's GitHub Metrics Dashboard" width="100%" />
+</div>
+
+---
+
 ### 🛠️ Technologies & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,framer,git,github,vscode)](https://skillicons.dev)
