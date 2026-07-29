@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi there, I'm Fazril! 👋
+🌍 Based in Indonesia | 💡 Passionate about building innovative UI/UX solutions
 
-<!--
-**fazril299/fazril299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | React Specialist | Framer Motion Enthusiast | Web Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate software developer with a love for creating seamless, user-friendly, and premium web applications. I enjoy working on frontend technologies, crafting immersive UI/UX experiences, and I'm always eager to learn and explore new tools and frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technologies & Tools
+
+
+🌟 Let's Connect!
+I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
+
+LinkedIn
+Email
+
+🎉 Fun Fact
+I once wrote a script that automated my morning coffee routine! ☕🤖
+
+python
+
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+class SoftwareEngineer:
+    
+    def __init__(self):
+        self.name = "Fazril"
+        self.role = "Passionate Frontend Developer"
+        self.language_spoken = ["id_ID", "en_US"]
+        self.favorite_tech = ["React", "Framer Motion", "JavaScript"]
+    def say_hi(self):
+        print(f"Thanks for dropping by, hope you find some of my work interesting.")
+    def build_luxury_ui(self):
+        return "Designing experiences that are meant to be felt, not just seen."
+me = SoftwareEngineer()
+me.say_hi()
