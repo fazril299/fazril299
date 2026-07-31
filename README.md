@@ -1,39 +1,45 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=051926&height=200&section=header&text=Hi%20there,%20I'm%20Fazril!%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=65&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=051926&height=200&section=header&text=Hi%20there,%20I'm%20Fazril!%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&height=50&lines=Frontend+Developer;React+%26+Framer+Motion+Specialist;Building+Premium+UI%2FUX" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <a href="https://linkedin.com/in/username-anda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:emailanda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
 <br/>
 
-🌍 **Based in Indonesia** | 💡 **Passionate about building innovative UI/UX solutions**
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>👋 About Me</h3>
+      <p>I'm a passionate software developer with a love for creating seamless, user-friendly, and premium web applications. I specialize in frontend technologies and crafting immersive UI/UX experiences.</p>
+      <br/>
+      <p>🌍 <strong>Based in:</strong> Indonesia</p>
+      <p>💡 <strong>Focus:</strong> Interactive & Luxury Web Interfaces</p>
+      <p>🌱 <strong>Currently Exploring:</strong> Advanced 3D Web Animations</p>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <h3>🛠️ Tech Stack</h3>
+      <br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,vite,framer,git,github,vscode,figma&theme=dark&perline=4" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-Welcome to my GitHub profile! I'm a passionate software developer with a love for creating seamless, user-friendly, and premium web applications. I enjoy working on frontend technologies, crafting immersive UI/UX experiences, and I'm always eager to learn and explore new tools and frameworks.
+<br/>
 
----
-
-### 📊 GitHub Activity Dashboard
+### 📊 Coding Activity & Metrics
 
 <div align="center">
-  <!-- Ini adalah metrik dari lowlighter/metrics yang Anda minta -->
   <img src="https://metrics.lecoq.io/fazril299?template=classic&base=header,activity,community,repositories,metadata&isocalendar=yes&isocalendar_duration=half-year&languages=yes&languages_colors=github&languages_threshold=0%25&habits=yes&habits_charts=yes&habits_days=14&habits_facts=yes&config_timezone=Asia%2FJakarta" alt="Fazril's GitHub Metrics Dashboard" width="100%" />
 </div>
 
----
-
-### 🛠️ Technologies & Tools
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,framer,git,github,vscode)](https://skillicons.dev)
-
----
-
-### 🌟 Let's Connect!
-
-I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username-anda) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emailanda@gmail.com)
-
----
+<br/>
 
 ### 🎉 Fun Fact
 
