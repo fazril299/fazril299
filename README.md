@@ -92,7 +92,7 @@ Each technique represents a specialized discipline in my development stack:
 
 ---
 
-### 📊 「血鬼術」 • UPPER MOON COMBAT METRICS
+###  「血鬼術」 • UPPER MOON COMBAT METRICS
 
 <div align="center">
 
@@ -119,7 +119,7 @@ Each technique represents a specialized discipline in my development stack:
 
 ---
 
-### 📜 「契約の掟」 • THE SAMURAI CONTRACT SCRIPT
+###  「契約の掟」 • THE SAMURAI CONTRACT SCRIPT
 
 ```typescript
 import { MoonBreathing, UpperRankOne } from "@infinity-castle/core";
@@ -171,6 +171,6 @@ demonEngineer.summonCollaboration();
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0c0617&height=120&section=footer" width="100%" alt="Kokushibo Footer" />
 
   <br/>
-  <sub>🌙 <em>"Even if the body perishes, the technique remains eternal."</em> — Kokushibo (黒死牟)</sub>
+  <sub> <em>"Even if the body perishes, the technique remains eternal."</em> — Kokushibo (黒死牟)</sub>
 
 </div>
