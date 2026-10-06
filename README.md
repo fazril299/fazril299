@@ -42,7 +42,12 @@
 
 <br/>
 
----
+<!-- Kokushibo Katana Divider -->
+<div align="center">
+  <img src="./assets/kokushibo-sword-divider.jpg" alt="Kokushibo Katana Divider" width="100%" style="max-width: 900px;" />
+</div>
+
+<br/>
 
 ### 👁️ 「上弦の壱」 • THE CHRONICLE OF THE MOON SWORDSMAN
 
@@ -75,7 +80,12 @@
 
 <br/>
 
----
+<!-- Kokushibo Katana Divider -->
+<div align="center">
+  <img src="./assets/kokushibo-sword-divider.jpg" alt="Kokushibo Katana Divider" width="100%" style="max-width: 900px;" />
+</div>
+
+<br/>
 
 ### 🌙 「月の呼吸」 • THE 16 FORMS OF MOON BREATHING (TECH ARSENAL)
 
@@ -101,7 +111,12 @@ Each technique represents a specialized doctrine in my development stack:
 
 <br/>
 
----
+<!-- Kokushibo Katana Divider -->
+<div align="center">
+  <img src="./assets/kokushibo-sword-divider.jpg" alt="Kokushibo Katana Divider" width="100%" style="max-width: 900px;" />
+</div>
+
+<br/>
 
 ### ⚔️ 「虚哭神去」 • KYOKUKOKUKAMUI: THE FLESH BLADE
 
@@ -114,7 +129,12 @@ Each technique represents a specialized doctrine in my development stack:
 
 <br/>
 
----
+<!-- Kokushibo Katana Divider -->
+<div align="center">
+  <img src="./assets/kokushibo-sword-divider.jpg" alt="Kokushibo Katana Divider" width="100%" style="max-width: 900px;" />
+</div>
+
+<br/>
 
 ### 📊 「血鬼術」 • UPPER MOON COMBAT METRICS
 
@@ -141,7 +161,12 @@ Each technique represents a specialized doctrine in my development stack:
 
 <br/>
 
----
+<!-- Kokushibo Katana Divider -->
+<div align="center">
+  <img src="./assets/kokushibo-sword-divider.jpg" alt="Kokushibo Katana Divider" width="100%" style="max-width: 900px;" />
+</div>
+
+<br/>
 
 ### 📜 「契約の掟」 • THE SAMURAI CONTRACT SCRIPT
 
@@ -170,7 +195,12 @@ demonEngineer.summonCollaboration();
 
 <br/>
 
----
+<!-- Kokushibo Katana Divider -->
+<div align="center">
+  <img src="./assets/kokushibo-sword-divider.jpg" alt="Kokushibo Katana Divider" width="100%" style="max-width: 900px;" />
+</div>
+
+<br/>
 
 <div align="center">
 
