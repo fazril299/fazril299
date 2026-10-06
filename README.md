@@ -3,14 +3,6 @@
   <!-- Kokushibo Top Wave Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0c0617&height=220&section=header&text=KOKUSHIBO%20%E2%80%A2%20%E4%B8%8A%E5%BC%A6%E3%81%AE%E5%A3%B1&fontSize=42&fontColor=ff2a5f&fontAlignY=38&animation=fadeIn" width="100%" alt="Kokushibo Header" />
 
-  <br/>
-
-  # KOKUSHIBO • 黒死牟
-  ### 「上弦の壱」 • UPPER RANK ONE OF FRONTEND ENGINEERING
-
-  *Michikatsu Tsugikuni // Master of Moon Breathing (月の呼吸)*
-
-  <br/>
 
   > *"Be thankful for the code... Never be arrogant. Even after four hundred years, refine the technique until every cut is invisible."*
 
