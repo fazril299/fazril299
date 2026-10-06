@@ -24,15 +24,15 @@
 
 ---
 
-### 👁️ 「上弦の壱」 • THE CHRONICLE OF THE MOON SWORDSMAN
+###  「上弦の壱」 • THE CHRONICLE OF THE MOON SWORDSMAN
 
 I am **Fazriel Muliawan**, wielding the mantle of **Upper Rank One** in the digital realm. Like Kokushibo relentlessly pursuing the absolute zenith of swordsmanship beyond mortal limits, I forge high-performance web applications with surgical precision, fluid momentum physics, and dark luxury aesthetics.
 
-* 🌑 **Identity:** Frontend Architect & Creative Developer
-* ⚔️ **Primary Weapon:** React 19, Modern Vite Architecture & Framer Motion
-* 🌌 **Secret Technique:** Natural momentum scrolling via `lenis` & zero-latency interactions
-* 🩸 **Demon Crest:** Obsession with pixel perfection, clean code, and edge performance
-* 📍 **Territory:** Indonesia *(Open for Global High-Stakes Projects)*
+*  **Identity:** Frontend Architect & Creative Developer
+*  **Primary Weapon:** React 19, Modern Vite Architecture & Framer Motion
+*  **Secret Technique:** Natural momentum scrolling via `lenis` & zero-latency interactions
+* **Demon Crest:** Obsession with pixel perfection, clean code, and edge performance
+*  **Territory:** Indonesia *(Open for Global High-Stakes Projects)*
 
 > *"You opened a path to reach further heights... and you abandoned it? In this domain, we push the boundaries of digital craftsmanship until eternity."*
 
@@ -84,7 +84,7 @@ demonEngineer.summonCollaboration();
 
 ---
 
-### 🩸 「召喚」 • SUMMON THE UPPER MOON
+###  「召喚」 • SUMMON THE UPPER MOON
 
 Have an ambitious project, luxury interface to craft, or want to discuss frontend architecture?  
 *Step into the Infinity Castle and initiate contact:*
