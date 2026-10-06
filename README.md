@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌙 KOKUSHIBO • 黒死牟
+#  KOKUSHIBO • 黒死牟
 ### 「上弦の壱」 • UPPER RANK ONE OF FRONTEND ENGINEERING
 
 *Michikatsu Tsugikuni // Master of Moon Breathing (月の呼吸)*
@@ -11,7 +11,6 @@
 
 <br/>
 
-`[ ⚔️ React 19 ]` &nbsp;•&nbsp; `[ 🌙 Moon Breathing ]` &nbsp;•&nbsp; `[ 🌌 Framer Motion ]` &nbsp;•&nbsp; `[ 🩸 Luxury UI/UX ]` &nbsp;•&nbsp; `[ ⚡ Lenis Momentum ]`
 
 <br/>
 
@@ -90,9 +89,9 @@ demonEngineer.summonCollaboration();
 Have an ambitious project, luxury interface to craft, or want to discuss frontend architecture?  
 *Step into the Infinity Castle and initiate contact:*
 
-* 📧 **Email:** [fazrilkece258@gmail.com](mailto:fazrilkece258@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/fazriel-muliawan](https://linkedin.com/in/fazriel-muliawan)
-* 🐙 **GitHub:** [github.com/fazril299](https://github.com/fazril299)
+* **Email:** [fazrilkece258@gmail.com](mailto:fazrilkece258@gmail.com)
+*  **LinkedIn:** [linkedin.com/in/fazriel-muliawan](https://linkedin.com/in/fazriel-muliawan)
+*  **GitHub:** [github.com/fazril299](https://github.com/fazril299)
 
 <br/>
 
